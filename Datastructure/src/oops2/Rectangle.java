@@ -10,6 +10,6 @@ public class Rectangle implements Shape {
 	public void draw() {
 		System.out.println("Rectangle Drawn");
 		System.out.println("Testing this application xyz");
-		System.out.println("Git Testing");
+		System.out.println("Git Testing for sai ram");
 	}
 }
