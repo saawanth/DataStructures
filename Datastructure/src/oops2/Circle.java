@@ -5,6 +5,12 @@ public class Circle implements Shape{
     }
 	public void draw() {
 		System.out.println("Circle Drawn");
+		System.out.println("     *      ");
+		System.out.println("   *   *    ");
+		System.out.println(" *        * ");
+		System.out.println("   *   *    ");
+		System.out.println("     *      ");
+
 	}
 
 }
